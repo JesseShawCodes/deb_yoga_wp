@@ -12,13 +12,3 @@ Text Domain: liquido-child
 Liquido WordPress Theme - Copyright 2019, Cryout Creations - http://www.cryoutcreations.eu
 This theme, like WordPress, is licensed under the GPL.
 */
-
-.staticslider-caption-text {
-    color: yellow !important;
-    font-weight: 900;
-}
-
-.lp-block-text {
-    color: red !important;
-    font-style: italic !important;
-}
